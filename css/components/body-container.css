@@ -1,0 +1,11 @@
+.body-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.body-container h2 {
+  color: #434E60;
+  opacity: 0.9;
+}
